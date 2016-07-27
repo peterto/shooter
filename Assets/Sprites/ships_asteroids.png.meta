@@ -1,0 +1,2265 @@
+fileFormatVersion: 2
+guid: 438bb325def000145aba1e754288898c
+timeCreated: 1467598185
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ships_asteroids 1_0
+    21300002: ships_asteroids 1_1
+    21300004: ships_asteroids 1_2
+    21300006: ships_asteroids 1_3
+    21300008: ships_asteroids 1_4
+    21300010: ships_asteroids 1_5
+    21300012: ships_asteroids 1_6
+    21300014: ships_asteroids 1_7
+    21300016: ships_asteroids 1_8
+    21300018: ships_asteroids 1_9
+    21300020: ships_asteroids 1_10
+    21300022: ships_asteroids 1_11
+    21300024: ships_asteroids 1_12
+    21300026: ships_asteroids 1_13
+    21300028: ships_asteroids 1_14
+    21300030: ships_asteroids 1_15
+    21300032: ships_asteroids 1_16
+    21300034: ships_asteroids 1_17
+    21300036: ships_asteroids 1_18
+    21300038: ships_asteroids 1_19
+    21300040: ships_asteroids 1_20
+    21300042: ships_asteroids 1_21
+    21300044: ships_asteroids 1_22
+    21300046: ships_asteroids 1_23
+    21300048: ships_asteroids 1_24
+    21300050: ships_asteroids 1_25
+    21300052: ships_asteroids 1_26
+    21300054: ships_asteroids 1_27
+    21300056: ships_asteroids 1_28
+    21300058: ships_asteroids 1_29
+    21300060: ships_asteroids 1_30
+    21300062: ships_asteroids 1_31
+    21300064: ships_asteroids 1_32
+    21300066: ships_asteroids 1_33
+    21300068: ships_asteroids 1_34
+    21300070: ships_asteroids 1_35
+    21300072: ships_asteroids 1_36
+    21300074: ships_asteroids 1_37
+    21300076: ships_asteroids 1_38
+    21300078: ships_asteroids 1_39
+    21300080: ships_asteroids 1_40
+    21300082: ships_asteroids 1_41
+    21300084: ships_asteroids 1_42
+    21300086: ships_asteroids 1_43
+    21300088: ships_asteroids 1_44
+    21300090: ships_asteroids 1_45
+    21300092: ships_asteroids 1_46
+    21300094: ships_asteroids 1_47
+    21300096: ships_asteroids 1_48
+    21300098: ships_asteroids 1_49
+    21300100: ships_asteroids 1_50
+    21300102: ships_asteroids 1_51
+    21300104: ships_asteroids 1_52
+    21300106: ships_asteroids 1_53
+    21300108: ships_asteroids 1_54
+    21300110: ships_asteroids 1_55
+    21300112: ships_asteroids 1_56
+    21300114: ships_asteroids 1_57
+    21300116: ships_asteroids 1_58
+    21300118: ships_asteroids 1_59
+    21300120: ships_asteroids 1_60
+    21300122: ships_asteroids 1_61
+    21300124: ships_asteroids 1_62
+    21300126: ships_asteroids 1_63
+    21300128: ships_asteroids 1_64
+    21300130: ships_asteroids 1_65
+    21300132: ships_asteroids 1_66
+    21300134: ships_asteroids 1_67
+    21300136: ships_asteroids 1_68
+    21300138: ships_asteroids 1_69
+    21300140: ships_asteroids 1_70
+    21300142: ships_asteroids 1_71
+    21300144: ships_asteroids 1_72
+    21300146: ships_asteroids 1_73
+    21300148: ships_asteroids 1_74
+    21300150: ships_asteroids 1_75
+    21300152: ships_asteroids 1_76
+    21300154: ships_asteroids 1_77
+    21300156: ships_asteroids 1_78
+    21300158: ships_asteroids 1_79
+    21300160: ships_asteroids 1_80
+    21300162: ships_asteroids 1_81
+    21300164: ships_asteroids 1_82
+    21300166: ships_asteroids 1_83
+    21300168: ships_asteroids 1_84
+    21300170: ships_asteroids 1_85
+    21300172: ships_asteroids 1_86
+    21300174: ships_asteroids 1_87
+    21300176: ships_asteroids 1_88
+    21300178: ships_asteroids 1_89
+    21300180: ships_asteroids 1_90
+    21300182: ships_asteroids 1_91
+    21300184: ships_asteroids 1_92
+    21300186: ships_asteroids 1_93
+    21300188: ships_asteroids 1_94
+    21300190: ships_asteroids 1_95
+    21300192: ships_asteroids 1_96
+    21300194: ships_asteroids 1_97
+    21300196: ships_asteroids 1_98
+    21300198: ships_asteroids 1_99
+    21300200: ships_asteroids 1_100
+    21300202: ships_asteroids 1_101
+    21300204: ships_asteroids 1_102
+    21300206: ships_asteroids 1_103
+    21300208: ships_asteroids 1_104
+    21300210: ships_asteroids 1_105
+    21300212: ships_asteroids 1_106
+    21300214: ships_asteroids 1_107
+    21300216: ships_asteroids 1_108
+    21300218: ships_asteroids 1_109
+    21300220: ships_asteroids 1_110
+    21300222: ships_asteroids 1_111
+    21300224: ships_asteroids 1_112
+    21300226: ships_asteroids 1_113
+    21300228: ships_asteroids 1_114
+    21300230: ships_asteroids 1_115
+    21300232: ships_asteroids 1_116
+    21300234: ships_asteroids 1_117
+    21300236: ships_asteroids 1_118
+    21300238: ships_asteroids 1_119
+    21300240: ships_asteroids 1_120
+    21300242: ships_asteroids 1_121
+    21300244: ships_asteroids 1_122
+    21300246: ships_asteroids 1_123
+    21300248: ships_asteroids 1_124
+    21300250: ships_asteroids 1_125
+    21300252: ships_asteroids 1_126
+    21300254: ships_asteroids 1_127
+    21300256: ships_asteroids 1_128
+    21300258: ships_asteroids 1_129
+    21300260: ships_asteroids 1_130
+    21300262: ships_asteroids 1_131
+    21300264: ships_asteroids 1_132
+    21300266: ships_asteroids 1_133
+    21300268: ships_asteroids 1_134
+    21300270: ships_asteroids 1_135
+    21300272: ships_asteroids 1_136
+    21300274: ships_asteroids 1_137
+    21300276: ships_asteroids 1_138
+    21300278: ships_asteroids 1_139
+    21300280: ships_asteroids 1_140
+    21300282: ships_asteroids 1_141
+    21300284: ships_asteroids 1_142
+    21300286: ships_asteroids 1_143
+    21300288: ships_asteroids_0
+    21300290: ships_asteroids_1
+    21300292: ships_asteroids_2
+    21300294: ships_asteroids_3
+    21300296: ships_asteroids_4
+    21300298: ships_asteroids_5
+    21300300: ships_asteroids_6
+    21300302: ships_asteroids_7
+    21300304: ships_asteroids_8
+    21300306: ships_asteroids_9
+    21300308: ships_asteroids_10
+    21300310: ships_asteroids_11
+    21300312: ships_asteroids_12
+    21300314: ships_asteroids_13
+    21300316: ships_asteroids_14
+    21300318: ships_asteroids_15
+    21300320: ships_asteroids_16
+    21300322: ships_asteroids_17
+    21300324: ships_asteroids_18
+    21300326: ships_asteroids_19
+    21300328: ships_asteroids_20
+    21300330: ships_asteroids_21
+    21300332: ships_asteroids_22
+    21300334: ships_asteroids_23
+    21300336: ships_asteroids_24
+    21300338: ships_asteroids_25
+    21300340: ships_asteroids_26
+    21300342: ships_asteroids_27
+    21300344: ships_asteroids_28
+    21300346: ships_asteroids_29
+    21300348: ships_asteroids_30
+    21300350: ships_asteroids_31
+    21300352: ships_asteroids_32
+    21300354: ships_asteroids_33
+    21300356: ships_asteroids_34
+    21300358: ships_asteroids_35
+    21300360: ships_asteroids_36
+    21300362: ships_asteroids_37
+    21300364: ships_asteroids_38
+    21300366: ships_asteroids_39
+    21300368: ships_asteroids_40
+    21300370: ships_asteroids_41
+    21300372: ships_asteroids_42
+    21300374: ships_asteroids_43
+    21300376: ships_asteroids_44
+    21300378: ships_asteroids_45
+    21300380: ships_asteroids_46
+    21300382: ships_asteroids_47
+    21300384: ships_asteroids_48
+    21300386: ships_asteroids_49
+    21300388: ships_asteroids_50
+    21300390: ships_asteroids_51
+    21300392: ships_asteroids_52
+    21300394: ships_asteroids_53
+    21300396: ships_asteroids_54
+    21300398: ships_asteroids_55
+    21300400: ships_asteroids_56
+    21300402: ships_asteroids_57
+    21300404: ships_asteroids_58
+    21300406: ships_asteroids_59
+    21300408: ships_asteroids_60
+    21300410: ships_asteroids_61
+    21300412: ships_asteroids_62
+    21300414: ships_asteroids_63
+    21300416: ships_asteroids_64
+    21300418: ships_asteroids_65
+    21300420: ships_asteroids_66
+    21300422: ships_asteroids_67
+    21300424: ships_asteroids_68
+    21300426: ships_asteroids_69
+    21300428: ships_asteroids_70
+    21300430: ships_asteroids_71
+    21300432: ships_asteroids_72
+    21300434: ships_asteroids_73
+    21300436: ships_asteroids_74
+    21300438: ships_asteroids_75
+    21300440: ships_asteroids_76
+    21300442: ships_asteroids_77
+    21300444: ships_asteroids_78
+    21300446: ships_asteroids_79
+    21300448: ships_asteroids_80
+    21300450: ships_asteroids_81
+    21300452: ships_asteroids_82
+    21300454: ships_asteroids_83
+    21300456: ships_asteroids_84
+    21300458: ships_asteroids_85
+    21300460: ships_asteroids_86
+    21300462: ships_asteroids_87
+    21300464: ships_asteroids_88
+    21300466: ships_asteroids_89
+    21300468: ships_asteroids_90
+    21300470: ships_asteroids_91
+    21300472: ships_asteroids_92
+    21300474: ships_asteroids_93
+    21300476: ships_asteroids_94
+    21300478: ships_asteroids_95
+    21300480: ships_asteroids_96
+    21300482: ships_asteroids_97
+    21300484: ships_asteroids_98
+    21300486: ships_asteroids_99
+    21300488: ships_asteroids_100
+    21300490: ships_asteroids_101
+    21300492: ships_asteroids_102
+    21300494: ships_asteroids_103
+    21300496: ships_asteroids_104
+    21300498: ships_asteroids_105
+    21300500: ships_asteroids_106
+    21300502: ships_asteroids_107
+    21300504: ships_asteroids_108
+    21300506: ships_asteroids_109
+    21300508: ships_asteroids_110
+    21300510: ships_asteroids_111
+    21300512: ships_asteroids_112
+    21300514: ships_asteroids_113
+    21300516: ships_asteroids_114
+    21300518: ships_asteroids_115
+    21300520: ships_asteroids_116
+    21300522: ships_asteroids_117
+    21300524: ships_asteroids_118
+    21300526: ships_asteroids_119
+    21300528: ships_asteroids_120
+    21300530: ships_asteroids_121
+    21300532: ships_asteroids_122
+    21300534: ships_asteroids_123
+    21300536: ships_asteroids_124
+    21300538: ships_asteroids_125
+    21300540: ships_asteroids_126
+    21300542: ships_asteroids_127
+    21300544: ships_asteroids_128
+    21300546: ships_asteroids_129
+    21300548: ships_asteroids_130
+    21300550: ships_asteroids_131
+    21300552: ships_asteroids_132
+    21300554: ships_asteroids_133
+    21300556: ships_asteroids_134
+    21300558: ships_asteroids_135
+    21300560: ships_asteroids_136
+    21300562: ships_asteroids_137
+    21300564: ships_asteroids_138
+    21300566: ships_asteroids_139
+    21300568: ships_asteroids_140
+    21300570: ships_asteroids_141
+    21300572: ships_asteroids_142
+    21300574: ships_asteroids_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ships_asteroids_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 560
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 548
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 544
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 528
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 563
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 544
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 532
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 512
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 500
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 496
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 515
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_22
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 496
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 484
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 468
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 467
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 436
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 420
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 416
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 419
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 388
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 368
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 371
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 352
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 340
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_63
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 323
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_70
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_76
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 272
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 275
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_82
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 244
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 224
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_92
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 227
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_95
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_100
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_104
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 179
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 148
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_108
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_111
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_112
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_114
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 131
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_118
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 112
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_124
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_126
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_128
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_130
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 52
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    - name: ships_asteroids_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -10}
+        - {x: -14.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 15}
+        - {x: 12.5, y: 16}
+    - name: ships_asteroids_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -22}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 23}
+        - {x: 20, y: 24}
+    - name: ships_asteroids_136
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 32
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_138
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -16, y: 11}
+        - {x: -16, y: -24}
+        - {x: 5, y: -24}
+        - {x: 16, y: -6}
+        - {x: 16, y: 24}
+    - name: ships_asteroids_140
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_142
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 16
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ships_asteroids_143
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -16, y: 20}
+        - {x: -16, y: -18}
+        - {x: -12, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 13}
+        - {x: 9, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
